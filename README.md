@@ -49,4 +49,4 @@ Once the application is running, you can use the GUI to:
 
 ## Support
 
-For any issues or questions regarding the application, please refer to the source code or contact the me.
+For any issues or questions regarding the application, please refer to the source code or contact me.
