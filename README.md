@@ -42,10 +42,9 @@ RSA/
 ## Usage
 
 Once the application is running, you can use the GUI to:
-- Generate RSA key pairs
+- Auto-generation of keys to ensure a primality feature of some RSA params(p and q) as much as possible
 - Encrypt text using RSA public keys
 - Decrypt text using RSA private keys
-- Import/export keys as needed
 
 ## Support
 
